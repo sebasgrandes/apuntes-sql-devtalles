@@ -14,6 +14,8 @@ Este repositorio contiene los apuntes, notas y ejercicios prácticos realizados 
 
 Me gustaría agradecer a DevTalles por ofrecer este curso enriquecedor. Ha sido una experiencia de aprendizaje valiosa y ha fortalecido mi comprensión de SQL y PostgreSQL.
 
+![Alt text](image.png)
+
 ---
 
 ¡Gracias por visitar mi repositorio de apuntes!
