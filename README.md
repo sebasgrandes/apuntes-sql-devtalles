@@ -1,6 +1,6 @@
 # Apuntes del Curso de SQL con PostgreSQL
 
-Este repositorio contiene los apuntes, notas y ejercicios prácticos realizados durante mi participación en el curso "SQL de cero: Tu guía práctica con PostgreSQL" ofrecido por DevTalles.
+Este repositorio contiene los apuntes, notas y ejercicios prácticos realizados durante mi aprendizaje en el curso "SQL de cero: Tu guía práctica con PostgreSQL" ofrecido por DevTalles.
 
 ## Estructura del Repositorio
 
